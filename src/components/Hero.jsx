@@ -20,16 +20,20 @@ const Hero = () => {
 					<h1 className={`${styles.heroHeadText}  text-white`}>
 						Hi, I'm{" "}
 						<span className='animate-text bg-gradient-to-r from-teal-500 via-[#915eff] to-orange-500 bg-clip-text text-transparent'>
-							Sahil
+							Dinh Hop
 						</span>
 					</h1>
 					<p
 						className={`${styles.heroSubText} mt-2 text-white-100 glitch`}
-						data-text='I design immersive digital
-						experiences that captivate users'
+						data-text='Im a Vietnamese based web/app developer focused on
+  crafting clean & user‑friendly experiences, I am passionate about
+  building excellent software that improves the lives of those
+  around me.'
 					>
-						I design immersive digital <br className='sm:block hidden' />
-						experiences that captivate users
+						I'm a Vietnamese based web/app developer focused on
+  crafting clean & user‑friendly experiences, I am passionate about
+  building excellent software that improves the lives of those
+  around me.
 					</p>
 				</div>
 			</div>
@@ -55,6 +59,7 @@ const Hero = () => {
 							className='h-3 w-3 rounded-full  bg-secondary mb-1'
 						></motion.div>
 					</div>
+					
 				</a>
 			</div>
 		</section>

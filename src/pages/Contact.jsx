@@ -24,16 +24,16 @@ function Contact() {
 		setSending(true);
 		emailjs
 			.send(
-				"service_6mtuizk",
-				"template_xxa6gzr",
+				"service_vmo28p3",
+				"template_0fl2leh",
 				{
 					from_name: form.name,
-					to_name: "Sahil",
+					to_name: "hope",
 					from_email: form.email,
-					to_email: "sahilkhadka767@gmail.com",
+					to_email: "nguyendinhhop8400@gmail.com",
 					message: form.message,
 				},
-				"Zcc829UhiguVzPsA9"
+				"USl0NmVO34AePBusc"
 			)
 			.then(
 				() => {

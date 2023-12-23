@@ -143,27 +143,27 @@ const experiences = [
 const socials = [
   {
     image: linkedin,
-    link: "https://www.linkedin.com/in/sahil-khadka/"
+    link: "https://www.linkedin.com/in/hopnguyendinh/"
   },
   {
     image: github,
-    link: "https://github.com/sahilxkhadka"
+    link: "https://github.com/HopNguyenDinh"
   },
   {
     image: gitlab,
-    link: "https://gitlab.com/sahilkhadka767"
+    link: "#"
   },
   {
     image: twitter,
-    link: "https://twitter.com/SahilKhadka15"
+    link: "#"
   },
   {
     image: instagram,
-    link: "https://www.instagram.com/sahil_khadka_627/"
+    link: "https://www.instagram.com/hopedevb8/"
   },
   {
     image: gmail,
-    link: "mailto:sahilkhadka767@gmail.com"
+    link: "mailto:nguyendinhhop8400@gmail.com"
   }
 ]
 
@@ -266,7 +266,7 @@ const projects = [
     ],
     image: restro,
     openSource: true,
-    source_code_link: "https://resturant-sahil.vercel.app/",
+    source_code_link: "#",
   },
 ];
 
