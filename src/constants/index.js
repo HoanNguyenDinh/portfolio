@@ -147,7 +147,7 @@ const socials = [
   },
   {
     image: github,
-    link: "https://github.com/HopNguyenDinh"
+    link: "https://github.com/hopedevb8"
   },
   {
     image: gitlab,
